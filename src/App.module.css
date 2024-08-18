@@ -1,0 +1,9 @@
+.App {
+  font-family: 'DM Sans', sans-serif;
+  background-color: #f8f8f8;
+  min-height: 100vh;
+}
+
+.Main {
+  padding-top: 60px;  /* This ensures content is not hidden under the fixed navbar */
+}
